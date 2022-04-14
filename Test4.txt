@@ -1,6 +1,0 @@
-<<<<<<< HEAD
-abc
-增加内容By master
-=======
-增加内容到branch01分支
->>>>>>> branch01
